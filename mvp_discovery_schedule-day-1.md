@@ -46,7 +46,7 @@ It is best to identify the job-to-be-done that the sprint is trying to solve as 
    * What is the problem that this product is going to solve?
    * What is the motivation behind what the user wants?
 3. As a group decide which problem is the most critical.
-4. Continue to refine language around the Problem Statement until we have a **clear and succint one sentance Problem Statement (keep jargon to an absolute minimum).**
+4. Continue to refine language around the Problem Statement until we have a **clear and succint one sentence Problem Statement (keep jargon to an absolute minimum).**
 5. Leave up in a clear visible spot in the room so that it is easy to reflect back on.
 
 ## Competitors and Similar Services
